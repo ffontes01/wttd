@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.com/ffontes01/wttd.svg?branch=master)](https://travis-ci.com/ffontes01/wttd)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório.
